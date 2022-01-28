@@ -3,4 +3,4 @@ I make hacked clients. Currently working on the Xoru Rewrite, AdvGuard and Senti
 
 
 ![Overwiew](https://github-readme-stats.vercel.app/api?username=Z3R0-cmd&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3R0-cmd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3R0-cmd&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
