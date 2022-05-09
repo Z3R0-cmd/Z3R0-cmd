@@ -1,4 +1,3 @@
-I make hacked clients. Currently working on the Xoru Rewrite, AdvGuard and Sentinel. I have made other projects and they are mostly in the list of repositories I have created.
 
 
 
